@@ -98,3 +98,8 @@
 47. 📉 **Go-Admin**: A modular and extensible Go-based admin framework with RBAC, RESTful APIs, and frontend UI.
 48. 📉 **Gfast**: A high-performance Go framework with an admin dashboard built using Go and Vue.
 49. 📉 **Entgo**: A powerful entity framework for modeling and querying relational databases in Go.
+
+## Examples
+
+50. https://github.com/golang/example
+51. https://gosamples.dev/
