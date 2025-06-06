@@ -103,3 +103,138 @@
 
 50. https://github.com/golang/example
 51. https://gosamples.dev/
+
+Go Kit
+Zerolog
+Caddy
+InfluxDB
+Traefik
+etcd
+avelino/awesome-go
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🌐 Web Frameworks
+
+* 🔥 **[Gin](https://github.com/gin-gonic/gin)** – Fast & minimalist HTTP web framework.
+* ⚡ **[Fiber](https://github.com/gofiber/fiber)** – Inspired by Express.js, very fast and simple.
+* 🌈 **[Iris](https://github.com/kataras/iris)** – Elegant and powerful web framework.
+* 🦉 **[Echo](https://github.com/labstack/echo)** – High performance web framework for building APIs.
+* 🧱 **[Beego](https://github.com/beego/beego)** – RESTful framework with ORM, session management, etc.
+* 🌿 **[Goyave](https://github.com/go-goyave/goyave)** – Feature-rich REST API framework with built-in validation/testing.
+* 🌐 **[Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce)** – Framework for building e-commerce platforms.
+
+---
+
+## 🛒 E-Commerce & CMS
+
+* 🛍️ **[QOR](https://github.com/qor/qor)** – Modular SDK for building e-commerce platforms.
+* 🏪 **[Beego-eCommerce](https://github.com/nsavelyeva/go-shopping)** – E-commerce implementation using Beego.
+* 🧩 **[magicms-medium](https://github.com/mediamagi/magicms-medium)** – Modular CMS/e-commerce system.
+* 🌿 **[Ponzu CMS](https://github.com/ponzu-cms/ponzu)** – Headless CMS with APIs.
+
+---
+
+## ⚙️ Admin Dashboards / Full-Stack Frameworks
+
+* 🧰 **[Go-Admin](https://github.com/go-admin-team/go-admin)** – Modular admin framework with RBAC and RESTful APIs.
+* 🧰 **[Zero-admin](https://github.com/ZeroBoiling/zero-admin)** – Lightweight admin system with Vue.js frontend.
+* 🧰 **[GFast](https://github.com/tiger1103/gfast)** – Full-featured Go web framework with admin dashboard.
+
+---
+
+## 📦 Static Site Generators & Starters
+
+* 🧃 **[Hugo](https://github.com/gohugoio/hugo)** – Extremely fast static site generator.
+* 🎨 **[gohugo-tailwindcss-alpinejs-starter](https://github.com/indaco/gohugo-tailwindcss-alpinejs-starter)** – Hugo + TailwindCSS + Alpine.js.
+* 🎨 **[tailwindcss-alpinejs-starter](https://github.com/wittyprogramming/tailwindcss-alpinejs-starter)** – Frontend stack starter for Hugo or other static generators.
+
+---
+
+## 🧠 BPM & Workflow Engines
+
+* 🔄 **[gobpm](https://github.com/dr-dobermann/gobpm)** – Lightweight business process engine.
+* 🔄 **[gobpmn](https://github.com/deemount/gobpmn)** – BPMN-compliant workflow engine.
+* 🔄 **[lib-bpmn-engine](https://github.com/nitram509/lib-bpmn-engine)** – Minimal BPMN engine.
+* 🔄 **[SHAR Workflow](https://gitlab.com/shar-workflow/shar)** – Workflow orchestration using JSON-based flows.
+
+---
+
+## 🧰 Developer Tools & Libraries
+
+* 🧩 **[Templ](https://templ.guide/)** – Type-safe HTML templating in Go.
+* 🔨 **[Cobra](https://github.com/spf13/cobra)** – CLI application framework.
+* 📘 **[Go standard library](https://pkg.go.dev/std)** – Official documentation.
+* 🧠 **[Delve](https://github.com/go-delve/delve)** – Debugger for Go.
+* 📦 **[sqlc](https://github.com/kyleconroy/sqlc)** – Generates type-safe Go code from SQL.
+* 🧠 **[ent (Entgo)](https://github.com/ent/ent)** – Entity framework for relational DBs.
+
+---
+
+## 🔌 Microservices, Networking & Auth
+
+* ⚙️ **[Go-Micro](https://github.com/go-micro/go-micro)** – Toolkit for building microservices.
+* 🧰 **[Kratos](https://github.com/go-kratos/kratos)** – Go microservice framework.
+* 🧰 **[grpc-go](https://github.com/grpc/grpc-go)** – gRPC implementation in Go.
+* 📬 **[NATS Server](https://github.com/nats-io/nats-server)** – High-performance messaging.
+* 🔐 **[Casbin](https://github.com/casbin/casbin)** – Authorization and access control library.
+* 🔒 **[Authelia](https://github.com/authelia/authelia)** – Authentication proxy for SSO & 2FA.
+* 🌍 **[Traefik](https://github.com/traefik/traefik)** – Reverse proxy & load balancer.
+* 🐳 **[Docker](https://github.com/moby/moby)** – Container engine written in Go.
+* 📉 **[Prometheus](https://github.com/prometheus/prometheus)** – Monitoring system and time-series database.
+* 📉 **[Zerolog](https://github.com/rs/zerolog)** – Structured, zero-allocation logger.
+* 🌀 **[etcd](https://github.com/etcd-io/etcd)** – Distributed key-value store by CoreOS.
+
+---
+
+## 📈 Data Visualization
+
+* 📈 **[gonum/plot](https://github.com/gonum/plot)** – Plotting library for Go.
+* 📦 **[gonum.org/v1/plot](https://pkg.go.dev/gonum.org/v1/plot)** – Gonum plot documentation.
+
+---
+
+## 🛠️ Benchmarking & Comparison Tools
+
+* 📊 **[go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark)** – Benchmarks for web frameworks.
+* 🔍 **[go-web-framework-comparison](https://github.com/diyan/go-web-framework-comparison)** – Visual comparison of frameworks.
+
+---
+
+## 📚 Educational Resources & Examples
+
+* 📘 **[Go Examples](https://github.com/golang/example)** – Official Go example programs.
+* 📘 **[Go Samples](https://gosamples.dev/)** – Collection of practical Go code snippets.
+
+---
+
+## 🔗 Other
+
+* 📦 **[Go Kit](https://github.com/go-kit/kit)** – Toolkit for microservices in Go.
+* 🌐 **[Caddy](https://github.com/caddyserver/caddy)** – Modern web server written in Go.
+* 📚 **[avelino/awesome-go](https://github.com/avelino/awesome-go)** – Curated list of Go libraries.
+
+---
+
+## ☁️ Hosting & Integration Tools
+
+* 🌍 **[Netlify](https://www.netlify.com/)** – Hosting platform for static sites (e.g. Hugo).
+* 🛒 **[Snipcart](https://www.snipcart.com/)** – Add e-commerce functionality to static sites.
+
+---
+
